@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+     body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        .element-container {
+            margin: 15px 0;
+            padding: 10px;
+            border: 1px solid #ccc;
+            background-color: #f9f9f9;
+        }
+        .answer {
+            font-weight: bold;
+            margin-top: 5px;
+        }
